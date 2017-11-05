@@ -1,3 +1,0 @@
-Time	[EmptySet]	[mRNA]	[protein]
-0	0	1	1
-1	0	nan	nan
