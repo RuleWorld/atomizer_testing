@@ -1,0 +1,94 @@
+(dp0
+S'cyclin D:Cdk2'
+p1
+S'CYCD'
+p2
+sS'phosphorylated intermediary enzyme'
+p3
+S'IEP'
+p4
+sS'early-response genes'
+p5
+S'ERG'
+p6
+sS'retinoblastoma protein (Rb)'
+p7
+S'var4'
+p8
+sS'hypophosphorylated Rb'
+p9
+S'var1'
+p10
+sS'delayed-response genes'
+p11
+S'DRG'
+p12
+sS'P27'
+p13
+S'P27'
+p14
+sS'E2F'
+p15
+S'var2'
+p16
+sS'Cdh1'
+p17
+S'CDh1'
+p18
+sS'P27:cyclin E:Cdk2'
+p19
+S'CE'
+p20
+sS'PPX'
+p21
+S'PPX'
+p22
+sS'P27:cyclin A:Cdk2'
+p23
+S'CA'
+p24
+sS'cyclin B:Cdk2'
+p25
+S'CYCB'
+p26
+sS'cyclin A:Cdk2'
+p27
+S'CYCA'
+p28
+sS'E2F:Rb'
+p29
+S'var5'
+p30
+sS'cyclin E:Cdk2'
+p31
+S'CYCE'
+p32
+sS'Cdc20'
+p33
+S'CDc20'
+p34
+sS'phosphorylated E2F'
+p35
+S'var3'
+p36
+sS'P27:cyclin D:Cdk2'
+p37
+S'CD'
+p38
+sS'inactive Cdc20'
+p39
+S'CDc20T'
+p40
+sS'mass'
+p41
+S'MASS'
+p42
+sS'phosphorylated E2F:Rb'
+p43
+S'var6'
+p44
+sS'general machinery for protein synthesis'
+p45
+S'GM'
+p46
+s.

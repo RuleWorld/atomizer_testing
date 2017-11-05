@@ -1,0 +1,54 @@
+(dp0
+S'phosphorylated cdc25'
+p1
+S'cdc25_p'
+p2
+sS'phosphorylated intermediary enzyme'
+p3
+S'IE_p'
+p4
+sS'Thr161 phosphorylated dimer(active MPF)'
+p5
+S'dimer_p'
+p6
+sS'cyclin'
+p7
+S'cyclin'
+p8
+sS'Thr161-Tyr15 phosphorylated dimer'
+p9
+S'p_dimer_p'
+p10
+sS'cyclin-cdc2 dimer'
+p11
+S'dimer'
+p12
+sS'intermediary enzyme'
+p13
+S'IE'
+p14
+sS'cdc25'
+p15
+S'cdc25'
+p16
+sS'phosphorylated wee1'
+p17
+S'wee1_p'
+p18
+sS'cdc2'
+p19
+S'cdc2'
+p20
+sS'ubiquitin conjugating enzyme'
+p21
+S'UbE'
+p22
+sS'Tyr15 phosphorylated dimer'
+p23
+S'p_dimer'
+p24
+sS'wee1'
+p25
+S'wee1'
+p26
+s.

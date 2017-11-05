@@ -1,0 +1,54 @@
+(dp0
+S'Y mRNA'
+p1
+S'cYm'
+p2
+sS'Y protein in nucleus'
+p3
+S'cYn'
+p4
+sS'X protein in nucleus'
+p5
+S'cXn'
+p6
+sS'TOC1 mRNA'
+p7
+S'cTm'
+p8
+sS'LHY protein in nucleus'
+p9
+S'cLn'
+p10
+sS'X protein in cytoplasm'
+p11
+S'cXc'
+p12
+sS'light sensitive protein P'
+p13
+S'cPn'
+p14
+sS'LHY protein in cytoplasm'
+p15
+S'cLc'
+p16
+sS'LHY mRNA'
+p17
+S'cLm'
+p18
+sS'TOC1 protein in cytoplasm'
+p19
+S'cTc'
+p20
+sS'Y protein in cytoplasm'
+p21
+S'cYc'
+p22
+sS'X mRNA'
+p23
+S'cXm'
+p24
+sS'TOC1 protein in nucleus'
+p25
+S'cTn'
+p26
+s.

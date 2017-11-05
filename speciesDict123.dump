@@ -1,0 +1,58 @@
+(dp0
+S'NFAT_Nuc'
+p1
+S'NFAT_Nuc'
+p2
+sS'Active Calcineurin in cytosol'
+p3
+S'Act_C_Cyt'
+p4
+sS'Phosphorylated NFAT in cytosol'
+p5
+S'NFAT_Pi_Cyt'
+p6
+sS'NFAT Calcineurin complex in nucleus'
+p7
+S'NFAT_Act_C_Nuc'
+p8
+sS'Phosphorylated NFAT Calcineurin complex in nucleus'
+p9
+S'NFAT_Pi_Act_C_Nuc'
+p10
+sS'Phosphorylated NFAT Calcineurin complex in cytosol'
+p11
+S'NFAT_Pi_Act_C_Cyt'
+p12
+sS'NFAT Calcineurin complex in cytosol'
+p13
+S'NFAT_Act_C_Cyt'
+p14
+sS'Calcium in Cytosol'
+p15
+S'Ca_Cyt'
+p16
+sS'Active Calcineurin in nucleus'
+p17
+S'Act_C_Nuc'
+p18
+sS'Calcium in Nucleus'
+p19
+S'Ca_Nuc'
+p20
+sS'Phosphorylated NFAT in nucleus'
+p21
+S'NFAT_Pi_Nuc'
+p22
+sS'Inactive Calcineurin in cytosol'
+p23
+S'Inact_C_Cyt'
+p24
+sS'NFAT_Cyt'
+p25
+S'NFAT_Cyt'
+p26
+sS'Inactive Calcineurin in nucleus'
+p27
+S'Inact_C_Nuc'
+p28
+s.

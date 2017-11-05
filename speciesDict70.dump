@@ -1,0 +1,182 @@
+(dp0
+S'MgADP'
+p1
+S'MgADP'
+p2
+sS'External Lactate'
+p3
+S'Lacex'
+p4
+sS'MgGri23P2'
+p5
+S'MgGri23P2'
+p6
+sS'NADH'
+p7
+S'NADH'
+p8
+sS'2-Phospho-D-glycerate'
+p9
+S'Gri2P'
+p10
+sS'NAD'
+p11
+S'NAD'
+p12
+sS'Protein1 bound NADPH'
+p13
+S'P1NADPH'
+p14
+sS'Phosphate external'
+p15
+S'Phiex'
+p16
+sS'1,3-Bisphospho-D-glycerate'
+p17
+S'Gri13P2'
+p18
+sS'Glucose in'
+p19
+S'Glcin'
+p20
+sS'Protein2'
+p21
+S'P2f'
+p22
+sS'Protein1'
+p23
+S'P1f'
+p24
+sS'Fructose 6-phosphate'
+p25
+S'Fru6P'
+p26
+sS'Dihydroxyacetone phosphate'
+p27
+S'DHAP'
+p28
+sS'Glucose outside'
+p29
+S'Glcout'
+p30
+sS'ATP'
+p31
+S'ATPf'
+p32
+sS'Erythrose 4-phosphate'
+p33
+S'E4P'
+p34
+sS'NADP'
+p35
+S'NADPf'
+p36
+sS'Phospho-D-glucono-1,5-lactone'
+p37
+S'GlcA6P'
+p38
+sS'Glyceraldehyde 3-phosphate'
+p39
+S'GraP'
+p40
+sS'Phosphoenolpyruvate'
+p41
+S'PEP'
+p42
+sS'Protein2 bound NADP'
+p43
+S'P2NADP'
+p44
+sS'Pyruvate'
+p45
+S'Pyr'
+p46
+sS'Fructose 1,6-phosphate'
+p47
+S'Fru16P2'
+p48
+sS'Glucose 6-phosphate'
+p49
+S'Glc6P'
+p50
+sS'AMP'
+p51
+S'AMPf'
+p52
+sS'External Pyruvate'
+p53
+S'Pyrex'
+p54
+sS'Mg'
+p55
+S'Mgf'
+p56
+sS'Ribulose 5-phosphate'
+p57
+S'Rul5P'
+p58
+sS'ADP'
+p59
+S'ADPf'
+p60
+sS'Ribose 5-phosphate'
+p61
+S'Rib5P'
+p62
+sS'Sedoheptulose 7-phosphate'
+p63
+S'Sed7P'
+p64
+sS'MgATP'
+p65
+S'MgATP'
+p66
+sS'Phosphate'
+p67
+S'Phi'
+p68
+sS'Oxidized Glutathione'
+p69
+S'GSSG'
+p70
+sS'Lactate'
+p71
+S'Lac'
+p72
+sS'3-Phospho-D-glycerate'
+p73
+S'Gri3P'
+p74
+sS'NADPH'
+p75
+S'NADPHf'
+p76
+sS'Xylulose 5-phosphate'
+p77
+S'Xul5P'
+p78
+sS'Protein1 bound NADP'
+p79
+S'P1NADP'
+p80
+sS'Reduced Glutathione'
+p81
+S'GSH'
+p82
+sS'Protein2 bound NADPH'
+p83
+S'P2NADPH'
+p84
+sS'PRPP'
+p85
+S'PRPP'
+p86
+sS'2,3-Bisphospho-D-glycerate'
+p87
+S'Gri23P2f'
+p88
+sS'MgAMP'
+p89
+S'MgAMP'
+p90
+s.

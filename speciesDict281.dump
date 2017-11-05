@@ -1,0 +1,130 @@
+(dp0
+S'(DPH) extramitochondrial reduced diphospyridine nucleotide'
+p1
+S'DPH'
+p2
+sS'(DIH) intramitochondrial reduced diphospyridine nucleotide'
+p3
+S'DIH'
+p4
+sS'(GPP) hexose diphosphate'
+p5
+S'GPP'
+p6
+sS'(MOX) glyceraldehyde 3-phoshphate dehydrogenase'
+p7
+S'MOX'
+p8
+sS'(ENZ) hexokinase'
+p9
+S'ENZ'
+p10
+sS'(XI) low energy intermediate in oxidative phosphorylation'
+p11
+S'XI'
+p12
+sS'(DIN) intramitochondrial diphospyridine nucleotide'
+p13
+S'DIN'
+p14
+sS'(LAC) lactate'
+p15
+S'LAC'
+p16
+sS'(DHA) dihydroxacetone phosphate'
+p17
+S'DHA'
+p18
+sS'(PPP) enzyme intermediate concerned in ATP utilization'
+p19
+S'PPP'
+p20
+sS'(MOD) glyceraldehyde 3-phoshphate dehydrogenase-DPN complex'
+p21
+S'MOD'
+p22
+sS'(GAP) glyceraldehyde 3-phosphate'
+p23
+S'GAP'
+p24
+sS'(DPN) extramitochondrial diphospyridine nucleotide'
+p25
+S'DPN'
+p26
+sS'(DGA) 1,3 diphosphoglycerate'
+p27
+S'DGA'
+p28
+sS'(PUE) enzyme concerned in ATP utilization'
+p29
+S'PUE'
+p30
+sS'(MOB) acyl enzyme intermediate of glyceraldehyde 3-phoshphate dehydrogenase'
+p31
+S'MOB'
+p32
+sS'(TP2) adenosine triphosphate in store 2 (mitochondria)'
+p33
+S'TP2'
+p34
+sS'(DBP) dibromophenol'
+p35
+S'DBP'
+p36
+sS'(PYR) pyruvate'
+p37
+S'PYR'
+p38
+sS'(AGP) alpha-glycerophosphate'
+p39
+S'AGP'
+p40
+sS'(PGA) 3 phosphoglycerate'
+p41
+S'PGA'
+p42
+sS'(TP1) adenosine triphosphate in store 1 (cytoplasm)'
+p43
+S'TP1'
+p44
+sS'(GLP) glucose 6-phosphate'
+p45
+S'GLP'
+p46
+sS'(OXY) oxygen'
+p47
+S'OXY'
+p48
+sS'(ENG) hexokinase-glucose intermediate'
+p49
+S'ENG'
+p50
+sS'(XSI) high energy intermediate in oxidative phosphorylation'
+p51
+S'XSI'
+p52
+sS'(PID) inorganic phosphate'
+p53
+S'PID'
+p54
+sS'(XSP) phosphorylated intermediate in oxidative phosphorylation'
+p55
+S'XSP'
+p56
+sS'(ETZ) phosphofructokinase'
+p57
+S'ETZ'
+p58
+sS'(ADP) adenosine diphosphate'
+p59
+S'ADP'
+p60
+sS'(GLU) glucose'
+p61
+S'GLU'
+p62
+sS'(ETG) phosphofructokinase intermediate'
+p63
+S'ETG'
+p64
+s.

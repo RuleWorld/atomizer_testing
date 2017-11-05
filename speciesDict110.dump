@@ -1,0 +1,62 @@
+(dp0
+S'Free CKI'
+p1
+S'i'
+p2
+sS'Total CDK'
+p3
+S'c0'
+p4
+sS'Active Cyclin:CDK complex'
+p5
+S'x'
+p6
+sS'Free CDK'
+p7
+S'c'
+p8
+sS' Inactive Cyclin:CDK complex'
+p9
+S'x1'
+p10
+sS'phosphorylated wee1'
+p11
+S'w1'
+p12
+sS'Free cyclin'
+p13
+S'y'
+p14
+sS'Cyclin:CDK:CKI complex with CKI unphosphorylated'
+p15
+S'ix'
+p16
+sS'Unphosphorylated wee1'
+p17
+S'w0'
+p18
+sS'One-site phosphorylated CDC25'
+p19
+S'z1'
+p20
+sS'Active SKP2 or APC'
+p21
+S'u'
+p22
+sS'Unphosphorylated CDC25'
+p23
+S'z0'
+p24
+sS'Two-site phosphorylated CDC25'
+p25
+S'z2'
+p26
+sS'Cyclin:CDK:CKI complex with CKI phosphorylated'
+p27
+S'ixp'
+p28
+sS'totalCyclin'
+p29
+S'totalCyclin'
+p30
+s.

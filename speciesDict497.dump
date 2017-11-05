@@ -1,0 +1,1182 @@
+(dp0
+S'14-demethyllanosterol [intracellular]'
+p1
+S's_0124'
+p2
+sS'2-isopropylmalate(2-) [intracellular]'
+p3
+S's_0167'
+p4
+sS'chorismate(2-) [intracellular]'
+p5
+S's_0500'
+p6
+sS'L-cystathionine [intracellular]'
+p7
+S's_0888'
+p8
+sS'keto-phenylpyruvate [intracellular]'
+p9
+S's_0859'
+p10
+sS'(1->3)-beta-D-glucan [intracellular]'
+p11
+S's_0001'
+p12
+sS'zymosterol intermediate 1a [intracellular]'
+p13
+S's_1455'
+p14
+sS'diglyceride [intracellular]'
+p15
+S's_0596'
+p16
+sS'phosphatidylethanolamine [intracellular]'
+p17
+S's_1233'
+p18
+sS'zymosterol intermediate 1b [intracellular]'
+p19
+S's_1456'
+p20
+sS'L-lysine [intracellular]'
+p21
+S's_0929'
+p22
+sS'L-histidine [intracellular]'
+p23
+S's_0911'
+p24
+sS'AMP [intracellular]'
+p25
+S's_0434'
+p26
+sS'5-[(5-phospho-1-deoxy-D-ribulos-1-ylamino)methylideneamino]-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide [intracellular]'
+p27
+S's_0315'
+p28
+sS'2-acetyllactic acid [intracellular]'
+p29
+S's_0150'
+p30
+sS'ethanol [extracellular]'
+p31
+S's_0651_b'
+p32
+sS'D-glucose 1-phosphate [intracellular]'
+p33
+S's_0549'
+p34
+sS'N-acetyl-L-gamma-glutamyl phosphate [intracellular]'
+p35
+S's_1070'
+p36
+sS'3-(4-hydroxyphenyl)pyruvate [intracellular]'
+p37
+S's_0209'
+p38
+sS'L-gamma-glutamyl phosphate [intracellular]'
+p39
+S's_0894'
+p40
+sS'3-(imidazol-4-yl)-2-oxopropyl dihydrogen phosphate [intracellular]'
+p41
+S's_0212'
+p42
+sS'aldehydo-D-glucose 6-phosphate [intracellular]'
+p43
+S's_0410'
+p44
+sS'homoisocitrate(3-) [intracellular]'
+p45
+S's_0800'
+p46
+sS'NAD(+) [intracellular]'
+p47
+S's_1082'
+p48
+sS'dUMP [intracellular]'
+p49
+S's_0624'
+p50
+sS'mannosylinositol phosphorylceramide [intracellular]'
+p51
+S's_1013'
+p52
+sS'ergosterol [intracellular]'
+p53
+S's_0635'
+p54
+sS'(R)-5-phosphomevalonic acid [intracellular]'
+p55
+S's_0022'
+p56
+sS'4alpha-methylzymosterol [intracellular]'
+p57
+S's_0302'
+p58
+sS'(S)-3-hydroxypalmitoyl-CoA [intracellular]'
+p59
+S's_0052'
+p60
+sS'sn-glycerol 3-phosphate [intracellular]'
+p61
+S's_1315'
+p62
+sS'stearate [intracellular]'
+p63
+S's_1329'
+p64
+sS'palmitate [intracellular]'
+p65
+S's_1170'
+p66
+sS'(S)-malate(2-) [intracellular]'
+p67
+S's_0069'
+p68
+sS'(2S)-2-[5-amino-1-(5-phospho-beta-D-ribosyl)imidazole-4-carboxamido]succinic acid [intracellular]'
+p69
+S's_0009'
+p70
+sS'(S)-2,3-epoxysqualene [intracellular]'
+p71
+S's_0040'
+p72
+sS'decanoate [intracellular]'
+p73
+S's_0574'
+p74
+sS'D-glucose [intracellular]'
+p75
+S's_0545'
+p76
+sS'N-carbamoyl-L-aspartate [intracellular]'
+p77
+S's_1073'
+p78
+sS'1-pyrroline-3-hydroxy-5-carboxylic acid [intracellular]'
+p79
+S's_0118'
+p80
+sS'5-methyltetrahydrofolate(2-) [intracellular]'
+p81
+S's_0328'
+p82
+sS'NADP(+) [intracellular]'
+p83
+S's_1091'
+p84
+sS'succinate(2-) [extracellular]'
+p85
+S's_1339_b'
+p86
+sS'hydrogen peroxide [intracellular]'
+p87
+S's_0801'
+p88
+sS'L-phenylalanine [intracellular]'
+p89
+S's_0936'
+p90
+sS'5-amino-1-(5-phospho-D-ribosyl)imidazole [intracellular]'
+p91
+S's_0316'
+p92
+sS'3-dehydroshikimate [intracellular]'
+p93
+S's_0217'
+p94
+sS'ADP [intracellular]'
+p95
+S's_0400'
+p96
+sS'4-methyl-2-oxopentanoate [intracellular]'
+p97
+S's_0297'
+p98
+sS'NADH [intracellular]'
+p99
+S's_1087'
+p100
+sS'N(6)-(1,2-dicarboxyethyl)-AMP [intracellular]'
+p101
+S's_1053'
+p102
+sS'carbon dioxide [intracellular]'
+p103
+S's_0470'
+p104
+sS'phosphate [intracellular]'
+p105
+S's_1207'
+p106
+sS'palmitoyl-CoA [intracellular]'
+p107
+S's_1187'
+p108
+sS'(S)-2-acetyl-2-hydroxybutanoate [intracellular]'
+p109
+S's_0042'
+p110
+sS'octanoyl-CoA [intracellular]'
+p111
+S's_1140'
+p112
+sS'succinyl-CoA [intracellular]'
+p113
+S's_1342'
+p114
+sS'homocitrate(3-) [intracellular]'
+p115
+S's_0798'
+p116
+sS'D-mannose 1-phosphate [intracellular]'
+p117
+S's_0553'
+p118
+sS'H+ [intracellular]'
+p119
+S's_0763_b'
+p120
+sS'5-amino-6-(5-phosphoribitylamino)uracil [intracellular]'
+p121
+S's_0319'
+p122
+sS'trans-4-hydroxy-L-proline [intracellular]'
+p123
+S's_1379'
+p124
+sS'phosphatidylcholine [intracellular]'
+p125
+S's_1228'
+p126
+sS'3-hydroxy-3-methylglutaryl-CoA [intracellular]'
+p127
+S's_0225'
+p128
+sS'2-phospho-D-glyceric acid [intracellular]'
+p129
+S's_0193'
+p130
+sS'(N(omega)-L-arginino)succinic acid [intracellular]'
+p131
+S's_0017'
+p132
+sS'IMP [intracellular]'
+p133
+S's_0816'
+p134
+sS'formate [intracellular]'
+p135
+S's_0689'
+p136
+sS'L-tyrosine [intracellular]'
+p137
+S's_0955'
+p138
+sS'but-1-ene-1,2,4-tricarboxylic acid [intracellular]'
+p139
+S's_0468'
+p140
+sS'dAMP [intracellular]'
+p141
+S's_0564'
+p142
+sS'decanoyl-CoA [intracellular]'
+p143
+S's_0582'
+p144
+sS'phosphate [extracellular]'
+p145
+S's_1209_b'
+p146
+sS'2-formamido-N(1)-(5-phospho-D-ribosyl)acetamidine [intracellular]'
+p147
+S's_0158'
+p148
+sS'phosphatidyl-N,N-dimethylethanolamine [intracellular]'
+p149
+S's_1225'
+p150
+sS'1-acyl-sn-glycerol 3-phosphate [intracellular]'
+p151
+S's_0083'
+p152
+sS'tetracosanoyl-CoA [intracellular]'
+p153
+S's_1355'
+p154
+sS'carbon dioxide [extracellular]'
+p155
+S's_0472_b'
+p156
+sS'3-oxooctadecanoyl-CoA [intracellular]'
+p157
+S's_0254'
+p158
+sS'5,10-methylenetetrahydrofolate(2-) [intracellular]'
+p159
+S's_0307'
+p160
+sS'L-glutamate [intracellular]'
+p161
+S's_0899'
+p162
+sS'5-amino-6-(D-ribitylamino)uracil [intracellular]'
+p163
+S's_0320'
+p164
+sS'prenyl diphosphate [intracellular]'
+p165
+S's_1257'
+p166
+sS'H+ [extracellular]'
+p167
+S's_0766_b'
+p168
+sS'ethanol [intracellular]'
+p169
+S's_0650'
+p170
+sS'L-serine [intracellular]'
+p171
+S's_0943'
+p172
+sS'3-methyl-2-oxobutanoate [intracellular]'
+p173
+S's_0238'
+p174
+sS'acetyl-CoA [intracellular]'
+p175
+S's_0380'
+p176
+sS'UMP [intracellular]'
+p177
+S's_1417'
+p178
+sS'(S)-3-hydroxytetradecanoyl-CoA [intracellular]'
+p179
+S's_0055'
+p180
+sS'2-oxoglutarate [intracellular]'
+p181
+S's_0185'
+p182
+sS'1-phosphatidyl-1D-myo-inositol [intracellular]'
+p183
+S's_0090'
+p184
+sS"3'-phospho-5'-adenylyl sulfate [intracellular]"
+p185
+S's_0206'
+p186
+sS'phosphatidyl-N-methylethanolamine [intracellular]'
+p187
+S's_1226'
+p188
+sS'laurate [intracellular]'
+p189
+S's_0968'
+p190
+sS'N-(24-hydroxytetracosanyl)sphinganine [intracellular]'
+p191
+S's_1060'
+p192
+sS'sulphate [extracellular]'
+p193
+S's_1348_b'
+p194
+sS'4beta-methylzymosterol-4alpha-carboxylic acid [intracellular]'
+p195
+S's_0303'
+p196
+sS'L-2-aminoadipate(2-) [intracellular]'
+p197
+S's_0861'
+p198
+sS'N(2)-formyl-N(1)-(5-phospho-D-ribosyl)glycinamide [intracellular]'
+p199
+S's_1052'
+p200
+sS'L-citrulline [intracellular]'
+p201
+S's_0887'
+p202
+sS'GMP [intracellular]'
+p203
+S's_0752'
+p204
+sS'stearoyl-CoA [intracellular]'
+p205
+S's_1334'
+p206
+sS'phosphoenolpyruvate [intracellular]'
+p207
+S's_1243'
+p208
+sS'glyoxylate [intracellular]'
+p209
+S's_0749'
+p210
+sS'isocitrate(3-) [intracellular]'
+p211
+S's_0847'
+p212
+sS'dCMP [intracellular]'
+p213
+S's_0569'
+p214
+sS'2-oxaloglutaric acid [intracellular]'
+p215
+S's_0180'
+p216
+sS'5-phosphoribosyl-ATP [intracellular]'
+p217
+S's_0334'
+p218
+sS'5-O-phosphono-alpha-D-ribofuranosyl diphosphate [intracellular]'
+p219
+S's_0331'
+p220
+sS'5,6,7,8-tetrahydrofolic acid [intracellular]'
+p221
+S's_0309'
+p222
+sS'CTP [intracellular]'
+p223
+S's_0521'
+p224
+sS'UDP [intracellular]'
+p225
+S's_1411'
+p226
+sS'acetate [intracellular]'
+p227
+S's_0369'
+p228
+sS'phosphatidyl-L-serine [intracellular]'
+p229
+S's_1219'
+p230
+sS'3-phospho-D-glyceric acid [intracellular]'
+p231
+S's_0264'
+p232
+sS'D-arabinose [intracellular]'
+p233
+S's_0530'
+p234
+sS'L-glutamine [intracellular]'
+p235
+S's_0907'
+p236
+sS'3-oxopalmitoyl-CoA [intracellular]'
+p237
+S's_0257'
+p238
+sS'triglyceride [intracellular]'
+p239
+S's_1399'
+p240
+sS'1-(5-phospho-D-ribosyl)-5-[(5-phospho-D-ribosylamino)methylideneamino]imidazole-4-carboxamide [intracellular]'
+p241
+S's_0079'
+p242
+sS"1-(5-phosphoribosyl)-5'-AMP [intracellular]"
+p243
+S's_0080'
+p244
+sS'N(2)-acetyl-L-ornithine [intracellular]'
+p245
+S's_1051'
+p246
+sS'acetoacetyl-CoA [intracellular]'
+p247
+S's_0374'
+p248
+sS'3-dehydroquinate [intracellular]'
+p249
+S's_0216'
+p250
+sS'L-isoleucine [intracellular]'
+p251
+S's_0920'
+p252
+sS'riboflavin [intracellular]'
+p253
+S's_1283'
+p254
+sS'myo-inositol [intracellular]'
+p255
+S's_1020'
+p256
+sS'succinate(2-) [intracellular]'
+p257
+S's_1338'
+p258
+sS'L-glutamic 5-semialdehyde [intracellular]'
+p259
+S's_0905'
+p260
+sS'zymosterol intermediate 1c [intracellular]'
+p261
+S's_1457'
+p262
+sS'L-homoserine [intracellular]'
+p263
+S's_0919'
+p264
+sS'lignocerate [intracellular]'
+p265
+S's_0987'
+p266
+sS"5'-xanthylic acid [intracellular]"
+p267
+S's_0306'
+p268
+sS"5'-adenylyl sulfate [intracellular]"
+p269
+S's_0304'
+p270
+sS'isopentenyl diphosphate [intracellular]'
+p271
+S's_0850'
+p272
+sS'1D-myo-inositol 1-phosphate [intracellular]'
+p273
+S's_0128'
+p274
+sS'D-fructose 1,6-bisphosphate [intracellular]'
+p275
+S's_0537'
+p276
+sS'L-saccharopine [intracellular]'
+p277
+S's_0942'
+p278
+sS'GDP [intracellular]'
+p279
+S's_0706'
+p280
+sS'3-oxohexacosanoyl-CoA [intracellular]'
+p281
+S's_0247'
+p282
+sS'glycerol [intracellular]'
+p283
+S's_0732'
+p284
+sS'sulphate [intracellular]'
+p285
+S's_1347'
+p286
+sS'D-ribulose 5-phosphate [intracellular]'
+p287
+S's_0557'
+p288
+sS'L-histidinol phosphate [intracellular]'
+p289
+S's_0916'
+p290
+sS'zymosterol [intracellular]'
+p291
+S's_1447'
+p292
+sS'thioredoxin disulfide [intracellular]'
+p293
+S's_1517'
+p294
+sS'D-erythrose 4-phosphate(2-) [intracellular]'
+p295
+S's_0533'
+p296
+sS'CMP [intracellular]'
+p297
+S's_0511'
+p298
+sS'L-homocysteine [intracellular]'
+p299
+S's_0917'
+p300
+sS'N(1)-(5-phospho-D-ribosyl)glycinamide [intracellular]'
+p301
+S's_1048'
+p302
+sS'4,4-dimethyl-5alpha-cholesta-8,14,24-trien-3beta-ol [intracellular]'
+p303
+S's_0268'
+p304
+sS'(2R,3R)-2,3-dihydroxy-3-methylpentanoate [intracellular]'
+p305
+S's_0007'
+p306
+sS'3-dehydrosphinganine [intracellular]'
+p307
+S's_0218'
+p308
+sS'L-valine [intracellular]'
+p309
+S's_0960'
+p310
+sS'fatty acid [intracellular]'
+p311
+S's_0663'
+p312
+sS'N-(5-phospho-beta-D-ribosyl)anthranilate [intracellular]'
+p313
+S's_1066'
+p314
+sS'D-arabinono-1,4-lactone [intracellular]'
+p315
+S's_0529'
+p316
+sS'dUDP [intracellular]'
+p317
+S's_0622'
+p318
+sS'D-erythro-1-(imidazol-4-yl)glycerol 3-phosphate [intracellular]'
+p319
+S's_0532'
+p320
+sS'mannan [intracellular]'
+p321
+S's_1011'
+p322
+sS'ammonium [intracellular]'
+p323
+S's_0430'
+p324
+sS'D-mannose 6-phosphate [intracellular]'
+p325
+S's_0554'
+p326
+sS'oxygen [intracellular]'
+p327
+S's_1160'
+p328
+sS'bicarbonate [intracellular]'
+p329
+S's_0458'
+p330
+sS'1-(2-carboxyphenylamino)-1-deoxy-D-ribulose 5-phosphate [intracellular]'
+p331
+S's_0078'
+p332
+sS'1-C-(indol-3-yl)glycerol 3-phosphate [intracellular]'
+p333
+S's_0088'
+p334
+sS'ATP [intracellular]'
+p335
+S's_0446'
+p336
+sS'3-hydroxyoctadecanoyl-CoA [intracellular]'
+p337
+S's_0234'
+p338
+sS'sedoheptulose 7-phosphate [intracellular]'
+p339
+S's_1304'
+p340
+sS'prephenate(2-) [intracellular]'
+p341
+S's_1258'
+p342
+sS'L-asparagine [intracellular]'
+p343
+S's_0877'
+p344
+sS'L-aspartate [intracellular]'
+p345
+S's_0881'
+p346
+sS'lauroyl-CoA [intracellular]'
+p347
+S's_0977'
+p348
+sS'(2R,3S)-3-isopropylmalate(2-) [intracellular]'
+p349
+S's_0008'
+p350
+sS'L-arginine [intracellular]'
+p351
+S's_0873'
+p352
+sS'2-isopropylmaleic acid [intracellular]'
+p353
+S's_0170'
+p354
+sS'lipid [intracellular]'
+p355
+S's_1000'
+p356
+sS'CDP-diacylglycerol [intracellular]'
+p357
+S's_0485'
+p358
+sS'diphosphate [intracellular]'
+p359
+S's_0605'
+p360
+sS'fumarate(2-) [intracellular]'
+p361
+S's_0692'
+p362
+sS'(R)-2,3-dihydroxy-3-methylbutanoate [intracellular]'
+p363
+S's_0018'
+p364
+sS'L-threonine [intracellular]'
+p365
+S's_0949'
+p366
+sS'NADPH [intracellular]'
+p367
+S's_1096'
+p368
+sS'D-xylulose 5-phosphate [intracellular]'
+p369
+S's_0561'
+p370
+sS'hydrogen sulfide [intracellular]'
+p371
+S's_0805'
+p372
+sS'alpha,alpha-trehalose 6-phosphate [intracellular]'
+p373
+S's_0419'
+p374
+sS'malonyl-CoA [intracellular]'
+p375
+S's_1005'
+p376
+sS'dolichyl phosphate [intracellular]'
+p377
+S's_0616'
+p378
+sS'oxaloacetate(2-) [intracellular]'
+p379
+S's_1156'
+p380
+sS'biomass [extracellular]'
+p381
+S's_0464_b'
+p382
+sS'citrate(3-) [intracellular]'
+p383
+S's_0507'
+p384
+sS'(S)-3-hydroxyhexacosanoyl-CoA [intracellular]'
+p385
+S's_0046'
+p386
+sS'L-aspartate 4-semialdehyde [intracellular]'
+p387
+S's_0886'
+p388
+sS'S-adenosyl-L-homocysteine [intracellular]'
+p389
+S's_1290'
+p390
+sS'5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylic acid [intracellular]'
+p391
+S's_0318'
+p392
+sS'3-oxotetradecanoyl-CoA [intracellular]'
+p393
+S's_0261'
+p394
+sS'shikimate [intracellular]'
+p395
+S's_1306'
+p396
+sS'coenzyme A [intracellular]'
+p397
+S's_0514'
+p398
+sS'acyl-CoA [intracellular]'
+p399
+S's_0386'
+p400
+sS'CDP [intracellular]'
+p401
+S's_0481'
+p402
+sS'myristoyl-CoA [intracellular]'
+p403
+S's_1044'
+p404
+sS'(S)-dihydroorotate [intracellular]'
+p405
+S's_0064'
+p406
+sS'ornithine [intracellular]'
+p407
+S's_1151'
+p408
+sS'2-oxoadipic acid [intracellular]'
+p409
+S's_0181'
+p410
+sS'GDP-alpha-D-mannose [intracellular]'
+p411
+S's_0710'
+p412
+sS'(2S)-2-isopropyl-3-oxosuccinate(2-) [intracellular]'
+p413
+S's_0010'
+p414
+sS'beta-D-glucose 6-phosphate [intracellular]'
+p415
+S's_0455'
+p416
+sS'sulphite [intracellular]'
+p417
+S's_1349'
+p418
+sS'4-phospho-L-aspartate [intracellular]'
+p419
+S's_0301'
+p420
+sS'5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide [intracellular]'
+p421
+S's_0317'
+p422
+sS'1-pyrroline-5-carboxylate [intracellular]'
+p423
+S's_0120'
+p424
+sS'UDP-D-glucose [intracellular]'
+p425
+S's_1415'
+p426
+sS'2,5-diamino-4-hydroxy-6-(5-phosphoribosylamino)pyrimidine [intracellular]'
+p427
+S's_0145'
+p428
+sS'2-acetamido-5-oxopentanoate [intracellular]'
+p429
+S's_0149'
+p430
+sS'glycine [intracellular]'
+p431
+S's_0740'
+p432
+sS'ergosta-5,7,22,24(28)-tetraen-3beta-ol [intracellular]'
+p433
+S's_0632'
+p434
+sS'fecosterol [intracellular]'
+p435
+S's_0669'
+p436
+sS'L-tryptophan [intracellular]'
+p437
+S's_0952'
+p438
+sS'N-acetyl-L-glutamate(2-) [intracellular]'
+p439
+S's_1071'
+p440
+sS'inositol-P-ceramide B [intracellular]'
+p441
+S's_0828'
+p442
+sS'oxygen [extracellular]'
+p443
+S's_1162_b'
+p444
+sS'5-O-(1-carboxyvinyl)-3-phosphoshikimic acid [intracellular]'
+p445
+S's_0330'
+p446
+sS'cis-aconitate(3-) [intracellular]'
+p447
+S's_0501'
+p448
+sS'biomass [intracellular]'
+p449
+S's_0463'
+p450
+sS'N-tetracosanylsphinganine [intracellular]'
+p451
+S's_1080'
+p452
+sS'(R)-mevalonate [intracellular]'
+p453
+S's_0031'
+p454
+sS'D-fructose 6-phosphate [intracellular]'
+p455
+S's_0539'
+p456
+sS'L-allysine [intracellular]'
+p457
+S's_0867'
+p458
+sS'octanoate [intracellular]'
+p459
+S's_1132'
+p460
+sS'alpha-D-ribose 5-phosphate [intracellular]'
+p461
+S's_0427'
+p462
+sS'5-phospho-beta-D-ribosylamine [intracellular]'
+p463
+S's_0333'
+p464
+sS'FADH2 [intracellular]'
+p465
+S's_0659'
+p466
+sS'2-trans,6-trans-farnesyl diphosphate [intracellular]'
+p467
+S's_0195'
+p468
+sS'dihydrofolic acid [intracellular]'
+p469
+S's_0601'
+p470
+sS'lanosterol [intracellular]'
+p471
+S's_0963'
+p472
+sS'inositol phosphomannosylinositol phosphoceramide [intracellular]'
+p473
+S's_0824'
+p474
+sS'ammonium [extracellular]'
+p475
+S's_0431_b'
+p476
+sS'UTP [intracellular]'
+p477
+S's_1430'
+p478
+sS'phosphatidate [intracellular]'
+p479
+S's_1215'
+p480
+sS'myristate [intracellular]'
+p481
+S's_1028'
+p482
+sS'GTP [intracellular]'
+p483
+S's_0755'
+p484
+sS'glycerone [intracellular]'
+p485
+S's_0734'
+p486
+sS'water [intracellular]'
+p487
+S's_1434_b'
+p488
+sS'alpha,alpha-trehalose [intracellular]'
+p489
+S's_0416'
+p490
+sS'squalene [intracellular]'
+p491
+S's_1327'
+p492
+sS'dATP [intracellular]'
+p493
+S's_0566'
+p494
+sS'6,7-dimethyl-8-(1-D-ribityl)lumazine [intracellular]'
+p495
+S's_0335'
+p496
+sS'carbamoyl phosphate [intracellular]'
+p497
+S's_0469'
+p498
+sS'dGMP [intracellular]'
+p499
+S's_0593'
+p500
+sS'O-acetyl-L-homoserine [intracellular]'
+p501
+S's_1117'
+p502
+sS'amylose [intracellular]'
+p503
+S's_0438'
+p504
+sS'anthranilate [intracellular]'
+p505
+S's_0439'
+p506
+sS'S-adenosyl-L-methionine [intracellular]'
+p507
+S's_1293'
+p508
+sS'thioredoxin dithiol [intracellular]'
+p509
+S's_1521'
+p510
+sS'orotate [intracellular]'
+p511
+S's_1154'
+p512
+sS'dTMP [intracellular]'
+p513
+S's_0619'
+p514
+sS'2-oxobutanoate [intracellular]'
+p515
+S's_0183'
+p516
+sS'dADP [intracellular]'
+p517
+S's_0562'
+p518
+sS'FAD [intracellular]'
+p519
+S's_0657'
+p520
+sS'(S)-3-methyl-2-oxopentanoate [intracellular]'
+p521
+S's_0058'
+p522
+sS'dolichyl D-mannosyl phosphate [intracellular]'
+p523
+S's_0615'
+p524
+sS'L-proline [intracellular]'
+p525
+S's_0939'
+p526
+sS'glycogen [intracellular]'
+p527
+S's_0743'
+p528
+sS'3-dehydro-4-methylzymosterol [intracellular]'
+p529
+S's_0215'
+p530
+sS'geranyl diphosphate [intracellular]'
+p531
+S's_0712'
+p532
+sS'acetaldehyde [intracellular]'
+p533
+S's_0366'
+p534
+sS'zymosterol intermediate 2 [intracellular]'
+p535
+S's_1458'
+p536
+sS'10-formyltetrahydrofolic acid [intracellular]'
+p537
+S's_0122'
+p538
+sS'glycerone phosphate [intracellular]'
+p539
+S's_0735'
+p540
+sS'glucose [extracellular]'
+p541
+S'species_1'
+p542
+sS'5-formamido-1-(5-phospho-D-ribosyl)imidazole-4-carboxamide [intracellular]'
+p543
+S's_0325'
+p544
+sS'sphinganine [intracellular]'
+p545
+S's_1325'
+p546
+sS'L-histidinol [intracellular]'
+p547
+S's_0915'
+p548
+sS'L-leucine [intracellular]'
+p549
+S's_0925'
+p550
+sS'D-glucose [extracellular]'
+p551
+S's_0547_b'
+p552
+sS'7-phospho-2-dehydro-3-deoxy-D-arabino-heptonic acid [intracellular]'
+p553
+S's_0356'
+p554
+sS'3-phospho-D-glyceroyl dihydrogen phosphate [intracellular]'
+p555
+S's_0265'
+p556
+sS'L-cysteine [intracellular]'
+p557
+S's_0889'
+p558
+sS'2-hydroxy-3-oxobutyl phosphate [intracellular]'
+p559
+S's_0163'
+p560
+sS"adenosine 3',5'-bismonophosphate [intracellular]"
+p561
+S's_0397'
+p562
+sS'L-methionine [intracellular]'
+p563
+S's_0933'
+p564
+sS'ergosterol ester [intracellular]'
+p565
+S's_0641'
+p566
+sS'glyceraldehyde 3-phosphate [intracellular]'
+p567
+S's_0731'
+p568
+sS"orotidine 5'-(dihydrogen phosphate) [intracellular]"
+p569
+S's_1155'
+p570
+sS'L-alanine [intracellular]'
+p571
+S's_0863'
+p572
+sS'episterol [intracellular]'
+p573
+S's_0627'
+p574
+sS'2,5-diamino-6-(5-phosphono)ribitylamino-4(3H)-pyrimidinone [intracellular]'
+p575
+S's_0146'
+p576
+sS'adenosine [intracellular]'
+p577
+S's_0393'
+p578
+sS'pyruvate [intracellular]'
+p579
+S's_1277'
+p580
+sS'(6R)-5,10-methenyltetrahydrofolic acid [intracellular]'
+p581
+S's_0015'
+p582
+sS'O-phospho-L-homoserine [intracellular]'
+p583
+S's_1122'
+p584
+sS'dGDP [intracellular]'
+p585
+S's_0591'
+p586
+sS'(R)-5-diphosphomevalonic acid [intracellular]'
+p587
+S's_0021'
+p588
+sS'3-phosphoshikimic acid [intracellular]'
+p589
+S's_0267'
+p590
+s.
