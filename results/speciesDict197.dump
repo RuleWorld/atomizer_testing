@@ -1,0 +1,30 @@
+(dp0
+S'bound intracellular BSP'
+p1
+S'x4'
+p2
+sS'free basolateral BSP'
+p3
+S'x1'
+p4
+sS'basolateral bound BSP'
+p5
+S'x2'
+p6
+sS'free intracellular BSP'
+p7
+S'x3'
+p8
+sS'intracellular BSP'
+p9
+S'BSP_cell'
+p10
+sS'apical BSP'
+p11
+S'x5'
+p12
+sS'total BSP'
+p13
+S'BSP_tot'
+p14
+s.

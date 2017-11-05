@@ -1,0 +1,54 @@
+(dp0
+S'NADPH'
+p1
+S'NADPH_c'
+p2
+sS'H2O2'
+p3
+S'H2O2_c'
+p4
+sS'Oxygen'
+p5
+S'O2_c'
+p6
+sS'compound III'
+p7
+S'coIII_p'
+p8
+sS'NADP2'
+p9
+S'NADP2_c'
+p10
+sS'Melatonin free radical'
+p11
+S'MLT_c'
+p12
+sS'Ferric peroxidase'
+p13
+S'per3_p'
+p14
+sS'compound I'
+p15
+S'coI_p'
+p16
+sS'compound II'
+p17
+S'coII_p'
+p18
+sS'Melatonin'
+p19
+S'MLTH_c'
+p20
+sS'NADP'
+p21
+S'NADP_c'
+p22
+sS'Hydrogen'
+p23
+S'H_c'
+p24
+sS'Superoxide'
+p25
+S'O2minus_c'
+p26
+s.

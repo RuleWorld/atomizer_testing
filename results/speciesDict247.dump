@@ -1,0 +1,125 @@
+(dp0
+S'NADH'
+p1
+S'NADH'
+p2
+sS'6-phosphogluconate'
+p3
+S'D6PGluconate'
+p4
+sS'NAD'
+p5
+S'NAD'
+p6
+sS'erythrose 4-phosphate'
+p7
+S'Erythrose4P'
+p8
+sS'Glucose in Cytosol'
+p9
+S'GLCi'
+p10
+sS'F2,6P'
+p11
+S'F26BP'
+p12
+sS'sedoheptulose 7-phosphate'
+p13
+S'Seduhept7P'
+p14
+sS'Extracellular Glucose'
+p15
+S'GLCo'
+p16
+sS'Glucose 6 Phosphate'
+p17
+S'G6P'
+p18
+sS'Phosphoenolpyruvate'
+p19
+S'PEP'
+p20
+sS'ribulose 5-phosphate'
+p21
+S'Ribulose5P'
+p22
+sS'Pyruvate'
+p23
+S'PYR'
+p24
+sS'dihydroxyacetone phosphate'
+p25
+S'DHAP'
+p26
+sS'NADP+'
+p27
+S'NADP'
+p28
+sS'Glycerol'
+p29
+S'GLY'
+p30
+sS'Ethanol'
+p31
+S'ETOH'
+p32
+sS'Acetaldehyde'
+p33
+S'ACE'
+p34
+sS'glyceraldehyde 3-phosphate'
+p35
+S'GA3P'
+p36
+sS'Fructose-1,6 bisphosphate'
+p37
+S'F16P'
+p38
+sS'NADPH'
+p39
+S'NADPH'
+p40
+sS'CO2'
+p41
+S'CO2'
+p42
+sS'X'
+p43
+g43
+sS'Succinate'
+p44
+S'SUCC'
+p45
+sS'High energy phosphates'
+p46
+S'P'
+p47
+sS'ribose 5-phosphate'
+p48
+S'Ribose5P'
+p49
+sS'1,3-bisphosphoglycerate'
+p50
+S'BPG'
+p51
+sS'3-phosphoglycerate'
+p52
+S'P3G'
+p53
+sS'D-6-phosphoglucono-delta-lactone'
+p54
+S'D6PGluconoLactone'
+p55
+sS'Fructose 6 Phosphate'
+p56
+S'F6P'
+p57
+sS'2-phosphoglycerate'
+p58
+S'P2G'
+p59
+sS'xylulose 5-phosphate'
+p60
+S'Xyl5P'
+p61
+s.

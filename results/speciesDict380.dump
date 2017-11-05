@@ -1,0 +1,62 @@
+(dp0
+S'trehalose'
+p1
+S'trh'
+p2
+sS'water'
+p3
+S'h2o'
+p4
+sS'UDP'
+p5
+S'udp'
+p6
+sS'ADP'
+p7
+S'adp'
+p8
+sS'trehalose 6-phosphate'
+p9
+S't6p'
+p10
+sS'diphosphate'
+p11
+S'ppi'
+p12
+sS'UTP'
+p13
+S'utp'
+p14
+sS'fructose 6-phosphate'
+p15
+S'f6p'
+p16
+sS'H+'
+p17
+S'h'
+p18
+sS'UDP glucose'
+p19
+S'udg'
+p20
+sS'phosphate'
+p21
+S'pho'
+p22
+sS'glucose 6-phosphate'
+p23
+S'g6p'
+p24
+sS'ATP'
+p25
+S'atp'
+p26
+sS'glucose'
+p27
+S'glx'
+p28
+sS'glucose 1-phosphate'
+p29
+S'g1p'
+p30
+s.

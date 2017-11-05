@@ -1,0 +1,110 @@
+(dp0
+S'Pyruvate external'
+p1
+S'PyrE'
+p2
+sS'NADH'
+p3
+S'NADH'
+p4
+sS'NAD'
+p5
+S'NAD'
+p6
+sS'ADP gly.'
+p7
+S'ADPg'
+p8
+sS'Phosphates cytosol'
+p9
+S'Pc'
+p10
+sS'Fructose 6-phosphate'
+p11
+S'Fru6P'
+p12
+sS'ATP cyt.'
+p13
+S'ATPc'
+p14
+sS'Glyceraldehyde 3-phosphate'
+p15
+S'GAP'
+p16
+sS'Glucose'
+p17
+S'GlcI'
+p18
+sS'ADP cyt.'
+p19
+S'ADPc'
+p20
+sS'Fructose 1,6-bisphosphate'
+p21
+S'Fru16BP'
+p22
+sS'3-PGA g.'
+p23
+S'PGAg'
+p24
+sS'Pyruvate'
+p25
+S'Pyr'
+p26
+sS'DHAP cyt.'
+p27
+S'DHAPc'
+p28
+sS'Glucose 6-phosphate'
+p29
+S'Glc6P'
+p30
+sS'Glycerol'
+p31
+S'Gly'
+p32
+sS'Glycerol 3-phosphate'
+p33
+S'Gly3P'
+p34
+sS'Phosphates in Glycosome'
+p35
+S'Pg'
+p36
+sS'Glucose external'
+p37
+S'GlcE'
+p38
+sS'3-PGA 2-PGA PEP'
+p39
+S'Nb'
+p40
+sS'Gy3P g.'
+p41
+S'Gly3Pg'
+p42
+sS'ATP gly.'
+p43
+S'ATPg'
+p44
+sS'PEP c.'
+p45
+S'PEPc'
+p46
+sS'Dihydroxyacetone phosphate'
+p47
+S'DHAP'
+p48
+sS'1,3-bisphosphoglycerate'
+p49
+S'BPGA13'
+p50
+sS'DHAP gly.'
+p51
+S'DHAPg'
+p52
+sS'Gy3P c.'
+p53
+S'Gly3Pc'
+p54
+s.

@@ -1,0 +1,30 @@
+(dp0
+S'Cells actively forming bone'
+p1
+S'y2'
+p2
+sS'Cells actively resorbing bone'
+p3
+S'y1'
+p4
+sS'Osteoblast'
+p5
+S'x2'
+p6
+sS'Steady state osteoblast'
+p7
+S'x2_bar'
+p8
+sS'Steady state osteoclast'
+p9
+S'x1_bar'
+p10
+sS'Bone mass'
+p11
+S'z'
+p12
+sS'Osteoclast'
+p13
+S'x1'
+p14
+s.

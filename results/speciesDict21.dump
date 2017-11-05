@@ -1,0 +1,42 @@
+(dp0
+S'PER mRNA'
+p1
+S'Mp'
+p2
+sS'TIM Protein (mono-phosphorylated)'
+p3
+S'T1'
+p4
+sS'TIM mRNA'
+p5
+S'Mt'
+p6
+sS'PER Protein (unphosphorylated)'
+p7
+S'P0'
+p8
+sS'Cytosolic PER-TIM Complex'
+p9
+S'CC'
+p10
+sS'PER Protein (bi-phosphorylated)'
+p11
+S'P2'
+p12
+sS'Nuclear PER-TIM Complex'
+p13
+S'Cn'
+p14
+sS'TIM Protein (unphosphorylated)'
+p15
+S'T0'
+p16
+sS'PER Protein (mono-phosphorylated)'
+p17
+S'P1'
+p18
+sS'TIM Protein (bi-phosphorylated)'
+p19
+S'T2'
+p20
+s.

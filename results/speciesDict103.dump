@@ -1,0 +1,54 @@
+(dp0
+S'Caspase 9-XIAP complex'
+p1
+S'C9X'
+p2
+sS'Caspase 3'
+p3
+S'C3'
+p4
+sS'APAF-1'
+p5
+S'A'
+p6
+sS'Caspase 9 cleaved-XIAP complex'
+p7
+S'C9_starX'
+p8
+sS'Caspase 9'
+p9
+S'C9'
+p10
+sS'Caspase 9 cleaved'
+p11
+S'C9_star'
+p12
+sS'Caspase 3 cleaved - XIAP complex'
+p13
+S'C3_starX'
+p14
+sS'APAF-1-Caspase 9 complex'
+p15
+S'AC9'
+p16
+sS'Caspase 3 cleaved'
+p17
+S'C3_star'
+p18
+sS'XIAP'
+p19
+S'X'
+p20
+sS'Apaf-1-Caspase 9 cleaved -XIAP complex'
+p21
+S'AC9_starX_C3_star'
+p22
+sS'APAF-1-Caspase 9-XIAP complex'
+p23
+S'AC9X'
+p24
+sS'APAF-1-Caspase 9 cleaved complex'
+p25
+S'AC9_star'
+p26
+s.
